@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 - 🛠️ I’m currently working on full-stack web development projects and improving my coding skills.
 - 🤝 I’m looking to collaborate on innovative software projects, hackathons, and open-source contributions.
 - 🙌 I’m looking for help with exploring advanced Java concepts and backend frameworks.
@@ -23,7 +23,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rekshit &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Rekshit &theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rekshit &limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
