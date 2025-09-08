@@ -1,9 +1,9 @@
 # 💫 About Me:
-- 🛠️ I’m currently working on full-stack web development projects and improving my coding skills. 
-- 🤝 I’m looking to collaborate on innovative software projects, hackathons, and open-source contributions. 
-- 🙌 I’m looking for help with exploring advanced Java concepts and backend frameworks. 
-- 🌱 I’m currently learning Java, data structures, and algorithms. 
-- 💬 Ask me about HTML, CSS, C programming, and my hackathon experiences. 
+- 🛠️ I’m currently working on full-stack web development projects and improving my coding skills.
+- 🤝 I’m looking to collaborate on innovative software projects, hackathons, and open-source contributions.
+- 🙌 I’m looking for help with exploring advanced Java concepts and backend frameworks.
+- 🌱 I’m currently learning Java, data structures, and algorithms.
+- 💬 Ask me about HTML, CSS, C programming, and my hackathon experiences.
 - ⚡ Fun fact: I’ve participated in multiple hackathons and love building creative tech solutions under tight deadlines.
 
 
