@@ -1,225 +1,89 @@
-[README.md](https://github.com/user-attachments/files/32972664/README.md)
-<!-- ============ HEADER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Hi%2C%20I'm%20Rekshit%20%F0%9F%91%8B&fontSize=52&fontColor=00F5A0&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Data%20%C2%B7%20Backend%20%C2%B7%20Hackathon%20Winner&descAlignY=60&descSize=20" width="100%"/>
+[README (1).md](https://github.com/user-attachments/files/32973047/README.1.md)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:F472B6,100:FDBA74&height=220&section=header&text=Hi%2C%20I'm%20Rekshit&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20Data%20%C2%B7%20Backend%20%C2%B7%20Hackathon%20Winner&descSize=20&descAlignY=60" width="100%"/>
 
 <div align="center">
 
-<a href="https://github.com/Rekshit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=700&lines=Building+AI+products+that+solve+real+problems;Turning+messy+data+into+decisions;1st+Prize+%E2%80%93+UniversuMM+2025+%F0%9F%8F%86;Python+%7C+Java+%7C+Flask+%7C+Gemini+API;Open+to+internships+%26+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+AI+products+that+solve+real+problems;Turning+messy+data+into+decisions;1st+Prize+%7C+UniversuMM+2025" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rekshit&label=Profile%20Views&color=00f5a0&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Rekshit?style=for-the-badge&logo=github&color=0f2027&labelColor=203a43)
-![Stars](https://img.shields.io/github/stars/Rekshit?style=for-the-badge&logo=starship&color=0f2027&labelColor=203a43)
+![Views](https://komarev.com/ghpvc/?username=Rekshit&label=VIEWS&color=A855F7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Rekshit?style=for-the-badge&logo=github&color=EC4899&labelColor=1f1f2e)
+![Stars](https://img.shields.io/github/stars/Rekshit?style=for-the-badge&logo=starship&color=F97316&labelColor=1f1f2e)
 
-<!-- Replace the placeholders below with your real links -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=black"/></a>
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-class Rekshit:
-    def __init__(self):
-        self.role        = "AI / Data / Backend Developer"
-        self.currently   = ["Building Kavach AI", "Shipping Pramaan AI", "Grinding DSA in Java"]
-        self.strengths   = ["Data pipelines", "LLM + API integration", "Problem solving", "Team hackathons"]
-        self.achievements = ["🏆 Winner – UniversuMM 2025", "🇮🇳 Smart India Hackathon 2025 & 2026 (University-level selection)"]
-        self.fun_fact    = "I make AI read 1,500+ YouTube transcripts so you don't have to ☕"
-
-    def say_hi(self):
-        print("Let's build something awesome together!")
-```
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 | Achievement | Event |
-|:--:|:--|:--|
-| 🏆 | **Winner – 1st Prize (₹10,000)** | UniversuMM 2025, MMDU Mullana |
-| 🇮🇳 | **University-Level Selection** | Smart India Hackathon 2025 |
-| 🇮🇳 | **University-Level Selection** | Smart India Hackathon 2026 |
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-F472B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FB923C?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## ✨ About
 
-<div align="center">
+- 🎯 AI / Data / Backend developer who likes building things that actually ship
+- 🔭 Currently building **Kavach AI** and **Pramaan AI**
+- 📚 Sharpening DSA in Java
 
-### 🛡️ Kavach AI – Trustified News Platform
-`Python` `Gemini API` `YouTube API` `Pandas` `JSON/CSV`
+## 🏆 Wins
 
-</div>
+| | Achievement | Event |
+|:-:|:--|:--|
+| 🥇 | **Winner, 1st Prize (₹10,000)** | UniversuMM 2025, MMDU Mullana |
+| 🚀 | University-level selection | Smart India Hackathon 2025 |
+| 🚀 | University-level selection | Smart India Hackathon 2026 |
 
-> An AI-powered news aggregation and verification pipeline built to fight misinformation.
+## 🚀 Projects
 
-- 📰 Processes **1,500+ YouTube transcripts** and extracts structured news events and summaries for **credibility analysis**
-- ⚙️ Batch-processing data pipeline with **API rate-limit handling**, **automated retries**, and structured **JSON/CSV storage**
-- 🔍 Built with process discipline and a troubleshooting mindset: pipelines that fail gracefully and recover on their own
+**🛡️ Kavach AI** · Trustified news platform that verifies 1,500+ YouTube transcripts with Gemini  
+![Python](https://img.shields.io/badge/Python-A78BFA?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-F472B6?style=flat-square&logo=googlegemini&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube_API-FB923C?style=flat-square&logo=youtube&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-38BDF8?style=flat-square&logo=pandas&logoColor=white)  
+[![Repo](https://img.shields.io/badge/View_Repo-Kavach--AI-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rekshit/Kavach-AI)
 
-```mermaid
-flowchart LR
-    A[🎥 YouTube API] --> B[📝 Transcripts]
-    B --> C[🤖 Gemini API]
-    C --> D[🧾 Structured News Events]
-    D --> E[✅ Credibility Analysis]
-    E --> F[(JSON / CSV Store)]
-    C -. rate limit .-> G[🔁 Auto Retry]
-    G --> C
-```
+**⚖️ Pramaan AI** · Turns complex legal contracts into plain language (team project)  
+![Python](https://img.shields.io/badge/Python-A78BFA?style=flat-square&logo=python&logoColor=white) ![OCR](https://img.shields.io/badge/PaddleOCR-F472B6?style=flat-square&logo=paddlepaddle&logoColor=white) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-FB923C?style=flat-square) ![AI](https://img.shields.io/badge/LLM-38BDF8?style=flat-square)  
+[![Repo](https://img.shields.io/badge/View_Repo-Pramaan--AI-F472B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rekshit/Pramaan-AI)
 
----
+**🌾 Agri-Smart** · AI-driven smart farming: crop prediction, market forecasting, risk analysis  
+![Python](https://img.shields.io/badge/Python-A78BFA?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-F472B6?style=flat-square&logo=flask&logoColor=white) ![JS](https://img.shields.io/badge/HTML_CSS_JS-FB923C?style=flat-square&logo=javascript&logoColor=white)  
+[![Repo](https://img.shields.io/badge/View_Repo-Agri--Smart-FB923C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rekshit/Agri-Smart)
 
-<div align="center">
+<sub>Also: [Java-Mastery-Hub](https://github.com/Rekshit/Java-Mastery-Hub) · [Data-Analysis-and-Algorithm](https://github.com/Rekshit/Data-Analysis-and-Algorithm) · [My-Internship-Portfolio](https://github.com/Rekshit/My-Internship-Portfolio)</sub>
 
-### ⚖️ Pramaan AI – Smart Contract Analyzer (Team Project)
-`Python` `OCR` `AI/LLM`
+## 🛠️ Skills
 
-</div>
+**Languages** ![Java](https://img.shields.io/badge/Java-A78BFA?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A78BFA?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-A78BFA?style=flat-square&logo=python&logoColor=white)
 
-> Converts complex legal contracts into simple, easy-to-understand language.
+**Web & AI** ![HTML](https://img.shields.io/badge/HTML-F472B6?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-F472B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F472B6?style=flat-square&logo=javascript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-F472B6?style=flat-square&logo=fastapi&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-F472B6?style=flat-square&logo=googlegemini&logoColor=white)
 
-- 🔎 **OCR** extracts text from scanned PDFs and sends it for AI-based analysis
-- 🚩 Highlights **deadlines, penalties, auto-renewals** and key clauses
-- 🎙️ Roadmap: **voice-based queries** and **direct photo uploads** so anyone can ask questions about their contracts
+**Core CS** ![DSA](https://img.shields.io/badge/DSA-FB923C?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-FB923C?style=flat-square) ![Multithreading](https://img.shields.io/badge/Multithreading-FB923C?style=flat-square) ![Networks](https://img.shields.io/badge/Computer_Networks-FB923C?style=flat-square) ![OS](https://img.shields.io/badge/Operating_Systems-FB923C?style=flat-square)
 
----
+**Python Libs** ![NumPy](https://img.shields.io/badge/NumPy-38BDF8?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-38BDF8?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-38BDF8?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-38BDF8?style=flat-square&logo=scipy&logoColor=white) ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-38BDF8?style=flat-square) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-38BDF8?style=flat-square)
 
-<div align="center">
+**Tools** ![Git](https://img.shields.io/badge/Git-34D399?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-34D399?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-34D399?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-34D399?style=flat-square&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-34D399?style=flat-square&logo=googlecolab&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-34D399?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-34D399?style=flat-square&logo=canva&logoColor=white)
 
-### 🌾 Agri-Smart – AI-Driven AgriTech Platform
-`Python` `Flask` `HTML/CSS/JS` `AI`
-
-</div>
-
-> A full-stack smart-farming platform for **crop prediction, market forecasting, risk analysis and equipment access**.
-
-[![Agri-Smart](https://img.shields.io/badge/View_Repo-Agri--Smart-00F5A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Rekshit/Agri-Smart)
-
----
-
-## 📌 More Repositories
+## 📊 Dashboard
 
 <div align="center">
 
-<a href="https://github.com/Rekshit/Data-Analysis-and-Algorithm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekshit&repo=Data-Analysis-and-Algorithm&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Rekshit/Java-Mastery-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekshit&repo=Java-Mastery-Hub&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Rekshit/My-Internship-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekshit&repo=My-Internship-Portfolio&theme=tokyonight&hide_border=true" width="48%"/></a>
-<a href="https://github.com/Rekshit/Agri-Smart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rekshit&repo=Agri-Smart&theme=tokyonight&hide_border=true" width="48%"/></a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rekshit&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=A855F7&icon_color=EC4899&text_color=8B8BA7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekshit&layout=compact&hide_border=true&hide=jupyter%20notebook&bg_color=00000000&title_color=A855F7&text_color=8B8BA7" />
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Rekshit&hide_border=true&background=00000000&ring=EC4899&fire=FB923C&currStreakNum=A855F7&currStreakLabel=EC4899&sideNums=A855F7&sideLabels=8B8BA7&dates=8B8BA7&stroke=8B8BA7" />
 
----
+<img src="https://ghchart.rshah.org/A855F7/Rekshit" alt="Contribution heatmap" width="95%" />
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-00A98F?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 📊 Contribution & Productivity Dashboard
-
-<div align="center">
-
-### 🔥 GitHub Stats
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Rekshit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rekshit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-### ⚡ Streak
-
-<img src="https://streak-stats.demolab.com?user=Rekshit&theme=tokyonight&hide_border=true&border_radius=12" />
-
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rekshit&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
-
-### 🏅 Trophy Cabinet
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rekshit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-
-### 🐍 Contribution Snake
-
+<!-- Snake: run the snake.yml workflow once, then uncomment the line below
 <img src="https://raw.githubusercontent.com/Rekshit/Rekshit/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-### 🌐 3D Contribution Skyline
-
-<!-- Generate once at https://skyline.github.com, save a screenshot into /assets and link here -->
-<!-- <img src="assets/skyline.png" width="80%"/> -->
+-->
 
 </div>
 
-<details>
-<summary><b>⏱️ Weekly Coding Time (WakaTime) — click to set up</b></summary>
-
-1. Create a free account at [wakatime.com](https://wakatime.com) and install the VS Code plugin.
-2. Enable *Public Profile* in WakaTime settings.
-3. Add this to the README:
-
-```md
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true)](https://wakatime.com/@YOUR_WAKATIME_USERNAME)
-```
-
-</details>
-
----
-
-## 🎯 Currently
-
-| 🔭 Working on | 🌱 Learning | 💬 Ask me about | ⚡ Fun fact |
-|:--|:--|:--|:--|
-| Kavach AI, Pramaan AI | System design, advanced DSA, LLM pipelines | Python, Java, Data Analytics, Hackathons | Won 1st prize at UniversuMM 2025 |
-
----
-
-## 🤝 Let's Connect
+<br/>
 
 <div align="center">
 
-**Got a cool idea, a hackathon team to form, or an internship opportunity?**
-**My inbox is open. 📬**
-
-<a href="https://github.com/Rekshit?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repos-00F5A0?style=for-the-badge&logo=github&logoColor=black"/></a>
-
-<br/><br/>
-
-⭐ *If you like my work, drop a star on any repo. It makes my day!* ⭐
+⭐ *Like what you see? Drop a star.* ⭐
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:F472B6,100:FDBA74&height=100&section=footer" width="100%"/>
