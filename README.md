@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/32973047/README.1.md)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:F472B6,100:FDBA74&height=220&section=header&text=Hi%2C%20I'm%20Rekshit&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%C2%B7%20Data%20%C2%B7%20Backend%20%C2%B7%20Hackathon%20Winner&descSize=20&descAlignY=60" width="100%"/>
 
 <div align="center">
