@@ -32,10 +32,10 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rekshit&hide_border=true&background=00000000&ring=60a5fa&fire=34d399&currStreakNum=e2e8f0&currStreakLabel=34d399&sideNums=e2e8f0&sideLabels=94a3b8&dates=94a3b8&stroke=334155"/><img src="https://streak-stats.demolab.com?user=Rekshit&hide_border=true&background=00000000&ring=2563eb&fire=059669&currStreakNum=0f172a&currStreakLabel=059669&sideNums=0f172a&sideLabels=64748b&dates=64748b&stroke=cbd5e1" alt="Streak"/></picture>
 
-<img src="https://ghchart.rshah.org/059669/Rekshit" alt="Contribution heatmap" width="95%"/>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rekshit/Rekshit/output/snake-dark.svg"/><img src="https://raw.githubusercontent.com/Rekshit/Rekshit/output/snake.svg" alt="Contribution snake" width="100%"/></picture>
 
 </div>
+
+<br/>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Open to internships" width="100%"/></picture>
